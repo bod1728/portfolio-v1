@@ -84,8 +84,8 @@ font-size: 20px;
  grid-row: 1;
 }
 .skills-img {
-    height: 220px;
-    width: 250px;
+    height: 200px;
+    width: 260px;
 }
 .cnt-info {
     width: 45%;
@@ -110,4 +110,5 @@ padding: 50px 0px 20px
 .copyright {
     margin-top: 25px;
     color: white;
+
 }
